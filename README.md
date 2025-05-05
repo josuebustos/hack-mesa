@@ -136,7 +136,6 @@ Food for thought:
 
 - https://github.com/features/codespaces
 - https://code.visualstudio.com/
-- 
 
 ## Designer Tools
 
