@@ -135,10 +135,16 @@ Food for thought:
 <br>
 
 ## Developer Tools
+***These tools are free to use.***
 
-- https://github.com/features/codespaces
-- https://code.visualstudio.com/
-- 
+Integrated Development Environment (IDE)
+- Github: https://code.visualstudio.com/
+
+Cloud hosted (IDE)
+- Github Codescpaces: https://github.com/features/codespaces
+
+API Development
+- Postman: https://www.postman.com/
 
 ## Designer Tools
 
