@@ -130,7 +130,9 @@ Believe it or not, how you present your findings or solution to an audience, jud
 
 Food for thought:
 - Use any an all tools to help elevate your presentation.
-- Presnt to win
+- Present to win
+
+<br>
 
 ## Developer Tools
 
